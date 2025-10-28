@@ -34,7 +34,7 @@
 
 ---
 <!--깃헙 잔디 꾸미기 -->
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=MinKyeongHyoen)](https://github.com/marshallku/gitgarden)
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=MinKyeongHyeon)](https://github.com/marshallku/gitgarden)
 ---
 
 ### 🌱 Visitors
