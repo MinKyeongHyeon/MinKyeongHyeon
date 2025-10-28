@@ -26,6 +26,8 @@
 ---
 
 <!-- GitHub 통계 카드 -->
+<img src="https://streak-stats.demolab.com?user=MinKyeongHyeon&theme=dark&hide_border=true" alt="YOURUSERNAME's GitHub Streak" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="MinKyeongHyeon's GitHub Stats" />
 </p>
@@ -33,13 +35,11 @@
 ---
 
 <!-- 잔디 먹는 스네이크 -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
+</picture>
 
 ---
 
