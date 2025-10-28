@@ -1,10 +1,39 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Server+Builder;macOS+Lover;Always+Learning&font=Fira%20Code&width=380&height=50)
+<h2 align="center">👋 Hi, I'm MinKyeongHyeon</h2>
 
-FE Developer
-재밌게 살자
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=사람들을+즐겁게+하는+개발;FE+Developer+from+Gyeonggi-Do&font=Fira%20Code&center=true&width=440&height=45&color=00C2FF" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="YOURUSERNAME's GitHub Stats" />
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+### 🧭 About Me
+🏡 South Korea, Gyeonggi-do  
+💻 FE Developer (React, Next.js, TypeScript)  
+🎨 People-centered design lover  
+✨ "사람들을 즐겁게 하는 개발"  
 
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,next,tailwind,sass,figma,ps,ai&perline=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=MinKyeongHyeon&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🕹️ Fun Section
+🐍 잔디를 먹는 스네이크  
+![snake gif](https://github.com/MinKyeongHyeon/MinKyeongHyeon/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌱 Visitors
+![Visitors](https://komarev.com/ghpvc/?username=MinKyeongHyeon&color=00C2FF)
