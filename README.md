@@ -25,21 +25,20 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- GitHub 통계 카드 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MinKyeongHyeon&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="MinKyeongHyeon's GitHub Stats" />
 </p>
 
 ---
 
-### 🕹️ Fun Section
+<!-- 잔디 먹는 스네이크 -->
 <p align="center">
-  🐍 잔디를 먹는 스네이크  
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/dist/github-snake.svg" />
+  </picture>
 </p>
 
 ---
