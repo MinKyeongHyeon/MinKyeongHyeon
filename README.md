@@ -3,10 +3,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=220&section=header&text=MinKyeongHyeon💻&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
+
+<!--깃헙 잔디 꾸미기 -->
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
+  </picture>
+
+<sub>_Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_</sub>
+
+</p>
+
+---
+
 <h3 align="center">✨ FE Developer from Gyeonggi-do, South Korea 🇰🇷 ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=사람들을+즐겁게+하는+개발;감성을+디자인하는+프론트엔드;항상+배우고+도전하는+개발자&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=사람들을+즐겁게+하는+개발;&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF" />
 </p>
 
 ---
@@ -33,24 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="MinKyeongHyeon's GitHub Stats" />
 </p>
 
----
-
-<!--깃헙 잔디 꾸미기 -->
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
-  </picture>
-
-<sub>_Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_</sub>
-
-</p>
-
----
 
 ---
 
