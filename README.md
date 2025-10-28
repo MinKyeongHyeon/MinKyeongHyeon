@@ -6,7 +6,7 @@
 <h3 align="center">✨ FE Developer from Gyeonggi-do, South Korea 🇰🇷 ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=사람들을+즐겁게+하는+개발;감정을+디자인하는+프론트엔드;항상+배우고+도전하는+개발자&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=사람들을+즐겁게+하는+개발;감성을+디자인하는+프론트엔드;항상+배우고+도전하는+개발자&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF" />
 </p>
 
 ---
