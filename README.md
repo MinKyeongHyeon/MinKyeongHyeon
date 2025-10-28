@@ -36,9 +36,7 @@
 <!--깃헙 잔디 꾸미기 -->
 
 
-<p align="center">
-  <img src="https://gitgarden.vercel.app/api/v1/MinKyeongHyeon" alt="GitGarden" />
-</p>
+![GitGarden](https://gitgarden.vercel.app/api/v1/MinKyeongHyeon)
 
 
 
