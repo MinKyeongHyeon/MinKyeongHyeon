@@ -33,14 +33,8 @@
 </p>
 
 ---
-
-<!-- 잔디 먹는 스네이크 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MinKyeongHyeon/MinKyeongHyeon/output/pacman-contribution-graph.svg" />
-</picture>
-
+<!--깃헙 잔디 꾸미기 -->
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=MinKyeongHyoen)](https://github.com/marshallku/gitgarden)
 ---
 
 ### 🌱 Visitors
