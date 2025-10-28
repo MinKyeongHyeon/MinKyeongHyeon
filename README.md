@@ -29,13 +29,13 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MinKyeongHyeon&theme=dark&hide_border=true" alt="MinKyeongHyeon's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=MinKyeongHyeon&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="MinKyeongHyeon's GitHub Stats" />
 </p>
 
 ---
 <!--깃헙 잔디 꾸미기 -->
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=MinKyeongHyeon)](https://github.com/marshallku/gitgarden)
+![GitGarden](https://gitgarden.vercel.app/api/v1/MinKyeongHyeon)
+
 
 
 
