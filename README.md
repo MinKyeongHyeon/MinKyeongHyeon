@@ -35,7 +35,6 @@
 💻 Frontend Developer (React / Next.js / TypeScript)  
 🎨 사람들을 즐겁게 하는 감성 중심의 개발
 
-✍️ 2025. 05 ~ 2025. 09 [ESTSOFT] 프론트엔드 개발자 오르미 6기
 
 ---
 
